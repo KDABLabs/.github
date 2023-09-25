@@ -24,8 +24,6 @@ Contact KDAB at <info@kdab.com> for any licensing queries.
 
 ## About KDAB
 
-KD Soap is supported and maintained by Klarälvdalens Datakonsult AB (KDAB).
-
 The KDAB Group is the global No.1 software consultancy for Qt, C++ and
 OpenGL applications across desktop, embedded and mobile platforms.
 
