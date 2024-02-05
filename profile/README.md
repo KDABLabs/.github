@@ -12,6 +12,9 @@ projects are not supported and may become obsolete over time.
 Bug free, highly portable and maintainable code is not the goal;
 essentially, the code is for demonstration purposes only.
 
+To see our mature and supported projects, go to [KDAB](https://github.com/KDAB)
+account.
+
 ## License and Copyright
 
 All code contained within <https://github.com/KDABLabs>
