@@ -27,13 +27,22 @@ Contact KDAB at <info@kdab.com> for any licensing queries.
 
 ## About KDAB
 
-The KDAB Group is the global No.1 software consultancy for Qt, C++ and
-OpenGL applications across desktop, embedded and mobile platforms.
+The KDAB Group The KDAB Group is a globally recognized provider for software 
+consulting, development and training, specializing in embedded devices and 
+complex cross-platform desktop applications. In addition to being leading 
+experts in Qt, C++ and 3D technologies for over two decades, KDAB provides 
+deep expertise across the stack, including Linux, Rust and modern UI 
+frameworks.
 
-The KDAB Group provides consulting and mentoring for developing Qt applications
-from scratch and in porting from all popular and legacy frameworks to Qt.
-We continue to help develop parts of Qt and are one of the major contributors
-to the Qt Project. We can give advanced or standard trainings anywhere
-around the globe on Qt as well as C++, OpenGL, 3D and more.
+With 100+ employees from 20 countries and offices in Sweden, Germany, USA, 
+France and UK, KDAB serves clients around the world.
 
 Please visit <https://www.kdab.com> to meet the people who write code like this.
+
+
+Blogs and Resources: https://www.kdab.com/resources
+
+Developer Training portfolio: https://training.kdab.com  
+
+Videos (Tutorials and more): https://www.youtube.com/@KDABtv
+
