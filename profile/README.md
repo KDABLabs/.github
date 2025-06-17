@@ -39,10 +39,10 @@ France and UK, KDAB serves clients around the world.
 
 Please visit <https://www.kdab.com> to meet the people who write code like this.
 
+Blogs and publications: https://www.kdab.com/resources
 
-Blogs and Resources: https://www.kdab.com/resources
-
-Developer Training portfolio: https://training.kdab.com  
+Software Developer Training for Qt, Modern C++, Rust, OpenGL and more: https://training.kdab.com
 
 Videos (Tutorials and more): https://www.youtube.com/@KDABtv
 
+Software Consulting and Development Services for Embedded and Desktop Applications https://www.kdab.com/services/
